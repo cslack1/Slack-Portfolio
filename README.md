@@ -13,3 +13,11 @@ Buckle up for my first pass at data virtulization projects! We go in 3 ... 2 ...
 # Assignment 2 - Government Debt Data
 
 <iframe src="https://data.oecd.org/chart/61LX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61LX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
+# Flourish Demonstration - Take 1
+Following the instructions on Canvas, I constructed this chart to show government debt data from 1995 - 2019:
+<div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Flourish Demonstration - Take 2
+I created a second data vizualization bu using the same data. The stacked area chart shows the area under each graph to quickly compare to other graphs: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
