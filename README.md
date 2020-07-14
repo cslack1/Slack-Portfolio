@@ -19,5 +19,5 @@ Following the instructions on Canvas, I constructed this chart to show governmen
 <div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Flourish Demonstration - Take 2 
-I created a second data vizualization bu using the same data. The stacked area chart shows the area under each graph to quickly compare to other graphs: 
+I created a second data vizualization but using the same data. The stacked area chart shows the area under each graph to quickly compare to other graphs: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
