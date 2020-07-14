@@ -18,6 +18,6 @@ Buckle up for my first pass at data virtulization projects! We go in 3 ... 2 ...
 Following the instructions on Canvas, I constructed this chart to show government debt data from 1995 - 2019:
 <div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Flourish Demonstration - Take 2
+# Flourish Demonstration - Take 2 
 I created a second data vizualization bu using the same data. The stacked area chart shows the area under each graph to quickly compare to other graphs: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
