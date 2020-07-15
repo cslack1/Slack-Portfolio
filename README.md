@@ -22,4 +22,5 @@ Following the instructions on Canvas, I constructed this chart to show governmen
 I created a second data vizualization of an area chart using the same data. I removed the grid lines and chose a neutral blue color with shading underneath.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3179661" data-url="https://flo.uri.sh/visualisation/3179661/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Markdown
+# Markdown Showdown: Flourish Demonstration Take 1 vs. Take
+A line graph is a good visualzation tool to show changes over time but I experimented with other ways to display the data. Compared to other ways to view this data (ex. pie chart, bar chart, etc.), I still really like the individual line charts and did not change the visualization entirely. Instead, I made minor modifications to make it easier to read and quicker to compare between countries. First, I shaded the area underneath the line. When looking at all graphs, the shading makes the peaks and valleys more visible. This especially helps when you are looking at different countries simultaneously; it is easy to tell how much debt has changed just by having a shaded area to compare against. I also removed the grid lines so they were not crowding the space. Overall, changes are minimal but impactful 
