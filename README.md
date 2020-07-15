@@ -12,8 +12,6 @@ Buckle up for my first pass at data virtulization projects! We go in 3 ... 2 ...
 
 # Assignment 2 - Government Debt Data
 
-<iframe src="https://data.oecd.org/chart/61Ql" width="500" height="375" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ql" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
-
 <iframe src="https://data.oecd.org/chart/61Ql" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ql" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 # Flourish Demonstration - Take 1
