@@ -34,5 +34,7 @@ While I could have focused on one or two graphical representations, I wanted to 
 
 I received feedback from my housemates. They admitted my graphic was very boring in comparison to the one SHRM provided but it made more sense and was very straightforward. I believe more narratives and graphics would help the aesthetic but think overall the bones on this new visual are strong. For example, a stacked bar graph instead of the dotted verticle line graph reduced space and shows a clearer differenitation between employee, supervisor, and HR professionals' readiness during a workplace violence situation. I would change the scale and add more colors, pictures, and narratives like the original piece but not much else. 
 
-Overall, I am happy with how the updated visual looks. It is much simpler and easier to read, sets a more serious tone for a serious conversation like workplace violence, and shares the same relevant information the original visualization provided without the unneccessary flair. Please find it here: https://github.com/cslack1/Slack-Portfolio/blob/master/IMG_5241.jpg
+Overall, I am happy with how the updated visual looks. It is much simpler and easier to read, sets a more serious tone for a serious conversation like workplace violence, and shares the same relevant information the original visualization provided without the unneccessary flair. Please find it here: 
+
+![IMG_5241](https://user-images.githubusercontent.com/67712999/88125713-e0338c00-cb9d-11ea-8292-6b0f9b109554.jpg)
 
